@@ -112,10 +112,9 @@ width:30%;
 <div id="main" >
       <div class="navbar">
         <a href="index.php">INICIO</a>
-        <a href="eys-capacitacion.php">ESTUDIOS</a>
-        <a href="eys-asesoria-tecnica.php">Asesoria Tecnica</a>
-        <a href="eys-investigacion.php">CONOCIMIENTOS INFORMATICOS</a>
-        <a href="eys-desarrollo-web.php">HOBBY</a>
+        <a href="eys-capacitacion.php">Estudios</a>
+        <a href="eys-investigacion.php">Conocimientos informaticos</a>
+        <a href="eys-desarrollo-web.php">Hobby</a>
     	<a href="donacion.php">&#128151; Donaciones</a>
         </div>
     
