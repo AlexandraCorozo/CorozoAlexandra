@@ -8,12 +8,16 @@
 
 <html lang="es">
 <head>
- <title> Educaysoft </title>
+ <title> Alexandra Corozo </title>
 <meta charset="utf-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        < link  href="images/CorozoAlexandra.ico" rel ="shortcut direct" type ="image/x-icon" />
+< meta  name=" description " content=" Biografia de Alexandra Corozo " />
+	<meta property="og:image" content="https://highkickesmeraldas.com/CorozoAlexandra/images/CorozoAlexandra.ico" />
+	<meta property="og:image:width" content="100"/ >
+        <meta property="og:image:height" content="100"/ >
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" type="text/css" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/assets/css/eys.css" />   
-<link rel="stylesheet" type="text/css" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/assets/src/prettify.css" />   
+<link rel="stylesheet" type="text/css" href="https://highkickesmeraldas.com/assets/css/eys.css" />   
+<link rel="stylesheet" type="text/css" href="https://https://highkickesmeraldas.com/assets/src/prettify.css" />   
 <style>
 #wrapper {
 	background: #fff2;
@@ -111,10 +115,10 @@ width:30%;
 <div id="wrapper"  style="border:5px solid red; position:relative;">
 <div id="main" >
       <div class="navbar">
-        <a href="index.php">INICIO</a>
-        <a href="eys-capacitacion.php">Estudios</a>
-        <a href="eys-investigacion.php">Conocimientos informaticos</a>
-        <a href="eys-desarrollo-web.php">Hobby</a>
+        <a href="#">INICIO</a>
+        <a href="#blog-seccion2">Estudios</a>
+        <a href="#blog-seccion3">Conocimientos informaticos</a>
+        <a href="#blog-seccion4">Hobby</a>
     	<a href="donacion.php">&#128151; Donaciones</a>
         </div>
     
