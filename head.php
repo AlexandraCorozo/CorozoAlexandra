@@ -11,7 +11,7 @@
  <title> Alexandra Corozo </title>
 <meta charset="utf-8"/>
         < link  href="images/CorozoAlexandra.ico" rel ="shortcut direct" type ="image/x-icon" />
-< meta  name=" description " content=" Biografia de Alexandra Corozo " />
+<meta name="description" content="Biografia de Alexandra Corozo" />
 	<meta property="og:image" content="https://highkickesmeraldas.com/CorozoAlexandra/images/CorozoAlexandra.ico" />
 	<meta property="og:image:width" content="100"/ >
         <meta property="og:image:height" content="100"/ >
